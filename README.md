@@ -33,7 +33,7 @@ First, add this to `Cargo.toml`:
 
 ```toml
 [dependencies]
-micromap = "0.0.16"
+micromap = ""
 ```
 
 Then, use it like a standard hash map... well, almost:
